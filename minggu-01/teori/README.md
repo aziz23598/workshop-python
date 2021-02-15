@@ -1,0 +1,1 @@
+pada minggu pertama kita mendapat materi tentang installasi Python
