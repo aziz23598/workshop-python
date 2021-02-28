@@ -1,3 +1,2 @@
 # workshop-python
-nama : Aziz Kuncoro
-NIM  : 185410008
+Aziz Kuncoro (185410008)
