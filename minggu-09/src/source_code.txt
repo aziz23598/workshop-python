@@ -1,0 +1,12 @@
+Source code:
+
+conda --version						
+conda create --name nama_enviroment nama_paket		
+conda activate nama_enviroment				
+conda info --envs					
+conda active						
+conda create --name nama_enviroment versi_python	
+python --version					
+conda search nama_paket					
+conda install nama_paket				
+conda list						
