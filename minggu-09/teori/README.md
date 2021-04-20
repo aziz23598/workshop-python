@@ -1,6 +1,6 @@
 Ringkasan kode & fungsinya:
 
-conda --version						: melihat versi conda
+conda --version						: melihat versi conda<br>
 conda create --name nama_enviroment nama_paket		: membuat enviroment baru dan menginstall paket
 conda activate nama_enviroment				: mengaktifkan enviromennt
 conda info --envs					: melihat daftar semua enviroment yang ada
